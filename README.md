@@ -4,7 +4,7 @@ This repo contains my completed assignments for the Deep Learning courses.
 
 ## Deep Learning Specialization (Coursera) by Andrew Ng (deeplearning.ai)
 
-Neural Networks and Deep Learning:
+### Neural Networks and Deep Learning:
 
 - Building your Deep Neural Network: Step by Step (https://github.com/androsova/deep_learning/blob/master/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv5.ipynb)
 
@@ -14,7 +14,7 @@ Neural Networks and Deep Learning:
 
 - Deep Neural Network for Image Classification: Application (https://github.com/androsova/deep_learning/blob/master/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
 
-Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization:
+### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization:
 
 - Initialization (https://github.com/androsova/deep_learning/blob/master/Initialization.ipynb)
 
@@ -24,7 +24,7 @@ Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimi
 
 - Gradient Checking (https://github.com/androsova/deep_learning/blob/master/Gradient%2BChecking%2Bv1.ipynb)
 
-Convolutional Neural Networks:
+### Convolutional Neural Networks:
 
 - Convolutional Neural Networks: Step by Step (https://github.com/androsova/deep_learning/blob/master/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
 
