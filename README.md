@@ -48,6 +48,10 @@ This repo contains my completed assignments for the Deep Learning courses.
 
 - Improvise a Jazz Solo with an LSTM Network (https://github.com/androsova/deep_learning/blob/master/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
 
+- Operations on word vectors (https://github.com/androsova/deep_learning/blob/master/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+
+- Emojify text (https://github.com/androsova/deep_learning/blob/master/Emojify%2B-%2Bv2.ipynb)
+
 - Neural Machine Translation (https://github.com/androsova/deep_learning/blob/master/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
 
 ## Machine Learning Specialization (Coursera) by University of Washington
