@@ -58,7 +58,7 @@ This repo contains my completed assignments for the Deep Learning courses.
 
 ## Machine Learning Specialization (Coursera) by University of Washington
 
-Deep Features for Image Classification: https://github.com/androsova/deep_learning/blob/master/Deep%20Features%20for%20Image%20Classification.ipynb
+- Deep Features for Image Classification (https://github.com/androsova/deep_learning/blob/master/Deep%20Features%20for%20Image%20Classification.ipynb)
 
-Deep Features for Image Retrieval: https://github.com/androsova/deep_learning/blob/master/Deep%20Features%20for%20Image%20Retrieval.ipynb
+- Deep Features for Image Retrieval (https://github.com/androsova/deep_learning/blob/master/Deep%20Features%20for%20Image%20Retrieval.ipynb)
 
