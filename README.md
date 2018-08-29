@@ -54,6 +54,8 @@ This repo contains my completed assignments for the Deep Learning courses.
 
 - Neural Machine Translation (https://github.com/androsova/deep_learning/blob/master/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
 
+- Trigger Word Detection (https://github.com/androsova/deep_learning/blob/master/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
+
 ## Machine Learning Specialization (Coursera) by University of Washington
 
 Deep Features for Image Classification: https://github.com/androsova/deep_learning/blob/master/Deep%20Features%20for%20Image%20Classification.ipynb
